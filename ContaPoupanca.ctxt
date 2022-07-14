@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ContaPoupanca
+comment1.params=cliente
+comment1.target=ContaPoupanca(Cliente)
+comment2.params=
+comment2.target=void\ imprimirExtrato()
+numComments=3

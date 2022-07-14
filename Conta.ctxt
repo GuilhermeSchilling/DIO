@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Conta
+comment1.params=cliente
+comment1.target=Conta(Cliente)
+comment10.params=
+comment10.target=Cliente\ getCliente()
+comment2.params=valor
+comment2.target=void\ sacar(double)
+comment3.params=valor
+comment3.target=void\ depositar(double)
+comment4.params=valor\ contaDestino
+comment4.target=void\ transferir(double,\ Conta)
+comment5.params=valorBoleto
+comment5.target=void\ pagarBoletos(double)
+comment6.params=
+comment6.target=void\ imprimirInfosComuns()
+comment7.params=
+comment7.target=int\ getAgencia()
+comment8.params=
+comment8.target=int\ getNumero()
+comment9.params=
+comment9.target=double\ getSaldo()
+numComments=11
